@@ -1,0 +1,39 @@
+{
+  "name": "search-torrent",
+  "version": "1.0.0",
+  "description": "Simple torrent search on multiple sites simultaneously (idope.se, btdb.to, torrentz)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendes2713/search-torrent.git"
+  },
+  "keywords": [
+    "idope.se",
+    "idope",
+    "bittorrent",
+    "api",
+    "idope-api",
+    "idope-search"
+  ],
+  "author": "mendes2713",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "q": "^1.4.1",
+    "request": "^2.81.0",
+	"idope-search": "^1.0.0",
+	"btdb-search": "^1.1.0",
+	"torrentz2": "^1.0.5"
+  },
+  "bugs": {
+    "url": "https://github.com/mendes2713/search-torrent/issues"
+  },
+  "homepage": "https://github.com/mendes2713/search-torrent#readme",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
