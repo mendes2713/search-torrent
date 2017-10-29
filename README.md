@@ -1,4 +1,4 @@
-# search-torrent
+# searchtorrent
  Simple torrent search on multiple sites simultaneously (idope.se, btdb.to, torrentz)
 
 ## Description
@@ -7,7 +7,7 @@
 ### Install
 
 ```
-npm install search-torrent
+npm install searchtorrent
 ```
 
 ### Search magnet links 
