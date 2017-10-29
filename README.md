@@ -12,7 +12,7 @@ npm install searchtorrent
 
 ### Search magnet links 
 ```javascript
-var torrent = require('search-torrent');
+var torrent = require('searchtorrent');
 torrent.search('Ubuntu').then(function(data){
    console.log(data); 
 });
